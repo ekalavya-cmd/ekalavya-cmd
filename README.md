@@ -22,6 +22,6 @@ This is where I'll be uploading projects, experiments, and things I'm currently 
 ### A Bit About Me
 
 - 🎬 I like watching movies
-- 🏎️ I follow various motorsports
+- 🏎️ I follow motorsports
 - 🏸 I love playing badminton
 - 🧠 I like building things that are simple, useful, and actually solve real problems.
