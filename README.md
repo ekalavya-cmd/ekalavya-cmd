@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**ekalavya-cmd/ekalavya-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ekalavya, a Full Stack Developer based in Vadodara, Gujarat, India.
 
-Here are some ideas to get you started:
+I mostly work on full-stack web development — React, Next.js, Node.js, and Express.js, with experience across both SQL and NoSQL databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also work with Docker, Redis, and AWS to build and ship production-ready applications.
+
+This is where I'll be uploading projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy-paste templates.
+
+---
+
+### Tools & Tech
+
+- React, Next.js, TypeScript/JavaScript
+- Node.js, Express.js
+- PostgreSQL, MySQL, MongoDB, Sequelize
+- Docker, Redis, AWS
+
+---
+
+### A Bit About Me
+
+- 🎬 I like watching movies
+- 🏎️ I follow various motorsports
+- 🏸 I love playing badminton
+- 🧠 I like building things that are simple, useful, and actually solve real problems.
