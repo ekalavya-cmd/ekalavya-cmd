@@ -13,8 +13,8 @@ This is where I'll be uploading projects, experiments, and things I'm currently 
 ### Tools & Tech
 
 - React, Next.js, TypeScript/JavaScript
-- Node.js, Express.js
-- PostgreSQL, MySQL, MongoDB, Sequelize
+- Node.js, Express.js, REST APIs
+- PostgreSQL, MySQL, MongoDB, Sequelize, Prisma
 - Docker, Redis, AWS
 
 ---
