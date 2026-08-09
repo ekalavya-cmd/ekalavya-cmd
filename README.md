@@ -14,8 +14,9 @@ This is where I'll be uploading projects, experiments, and things I'm currently 
 
 - React, Next.js, TypeScript/JavaScript
 - Node.js, Express.js, REST APIs
-- PostgreSQL, MySQL, MongoDB, Sequelize, Prisma
-- Docker, Redis, AWS
+- PostgreSQL, MySQL, MongoDB, Mongoose, Sequelize, Prisma
+- JWT, Zod, TanStack Query
+- Docker, Redis, BullMQ, Socket.IO, AWS
 
 ---
 
