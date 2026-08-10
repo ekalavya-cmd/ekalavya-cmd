@@ -2,7 +2,7 @@
 
 I'm Ekalavya, a Full Stack Developer based in Vadodara, Gujarat, India.
 
-I mostly work on full-stack web development — React, Next.js, Node.js, and Express.js, with experience across both SQL and NoSQL databases.
+I mostly work on full-stack web development — React, Next.js, Node.js, and Express.js, with experience across both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
 
 I also work with Docker, Redis, Socket.IO, and AWS to build and ship production-ready applications.
 
